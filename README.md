@@ -1,2 +1,2 @@
 # InspireIT65KLMTL
-python workshop InspireIT65
+Python workshop InspireIT65
